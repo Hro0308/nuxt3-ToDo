@@ -17,9 +17,20 @@ cd nuxt3-ToDo
 ```bash
 yarn install
 ```
+
+開発モードで実行
+
 ```bash
 yarn dev
 ```
-http://localhost:3000 にアクセスすると画面が表示されます。
+http://localhost:3000 にアクセス
 
 
+プロダクションモードで実行
+
+```bash
+yarn build
+```
+```bash
+yarn start
+```
