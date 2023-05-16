@@ -4,8 +4,8 @@
     <Meta name="description" content="ToDo" />
   </Head>
   <NuxtLayout>
-    <AddTask />
+    <TaskAdd />
     <TaskList />
-    <CompleteTaskList />
+    <TaskCompleteList />
   </NuxtLayout>
 </template>
